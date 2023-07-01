@@ -1,0 +1,16 @@
+<linker>
+	<assembly fullname="UnityEngine.CoreModule">
+		<type fullname="UnityEngine.Events.UnityEvent" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="Vuforia.Unity.Engine">
+		<type fullname="Vuforia.VuforiaConfiguration/GenericVuforiaConfiguration" preserve="nothing" serialized="true"/>
+		<type fullname="Vuforia.VuforiaConfiguration/DatabaseConfiguration" preserve="nothing" serialized="true"/>
+		<type fullname="Vuforia.VuforiaConfiguration/RequiredShaders" preserve="nothing" serialized="true"/>
+		<type fullname="Vuforia.VuforiaConfiguration/VideoBackgroundConfiguration" preserve="nothing" serialized="true"/>
+		<type fullname="Vuforia.VuforiaConfiguration/DeviceTrackerConfiguration" preserve="nothing" serialized="true"/>
+		<type fullname="Vuforia.VuforiaConfiguration/PlayModeConfiguration" preserve="nothing" serialized="true"/>
+		<type fullname="Vuforia.VuforiaConfiguration/WebCamConfiguration" preserve="nothing" serialized="true"/>
+		<type fullname="Vuforia.VuforiaConfiguration/PackageInfo" preserve="nothing" serialized="true"/>
+	</assembly>
+</linker>
